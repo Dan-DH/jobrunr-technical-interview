@@ -5,7 +5,7 @@ We are currently hiring for a full-time position as a Junior Software Engineer. 
 If you are interested in joining our team, you can apply __only__ if:
 - you have a valid working permit for Belgium
 - you're living in Belgium and are willing to come to our offices in Leuven (next to the railway station) for 4 days per week initially and 2 days per week after your first review (about 3 months)
-- you can solve the unit tests (details about the coding challenge can be found below) in this repo within 1 hour without the use of internet or local LLM help. This means without using
+- you can solve the unit tests (details about the coding challenge can be found below) in this repo without the use of internet or local LLM help. This means without using
   - any external libraries or frameworks nor
   - any IDE LLM autocomplete features (you can disable it in Intellij under Settings > Editor > General > Inline Completion) nor 
   - using ChatGPT or any other LLM coding model
